@@ -1,0 +1,8 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    background-color: #d1edf2
+  }
+img {
+    border: 5px solid #555;
+  }
