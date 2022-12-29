@@ -27,3 +27,8 @@ ul li {
 body {
     cursor: url('https://i.imgur.com/5FleeMh.png'), auto;
 }
+hr {
+    height: 1px;
+    background-color: black;
+    border: none;
+  }
